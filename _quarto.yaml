@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MBA Portfolio"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: resume.html
+        text: Resume
+      - href: projects.html
+        text: Projects
+      - href: skills.html
+        text: Skills
+      - href: contact.html
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

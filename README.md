@@ -70,7 +70,7 @@ I'm your guy! Let's make your next project a success too! 🔥
 
 **Contact Me Directly**:
 - **Email** 📧: [adamsmuema19@gmail.com](mailto:adamsmuema19@gmail.com)
-- **Support My Work ☕**: Buy me coffee via PayPal → [adamsmuema19@gmail.com]([https://www.paypal.com/paypalme/adamsmuema19](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U))
+- **Support My Work ☕**: Buy me coffee via PayPal → [adamsmuema19@gmail.com]([https://www.paypal.com/paypalme/adamsmuema19](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U)
 - **Book Tutoring / Freelance Help Whatsapp 📩**: WhatsApp → [+254702896107](https://wa.me/254702896107)
 
 Your support keeps me helping more students achieve their dreams! 🫶 Thank you!

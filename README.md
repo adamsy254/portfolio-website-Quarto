@@ -29,6 +29,27 @@ A sleek, multi-page portfolio website I helped create – showcasing education, 
 - **Quarto** for seamless markdown-to-HTML publishing with stunning layouts
 - Custom styling, embedded assets, smooth navigation, and professional polish
 
+## 🚀 How to Run the Website Locally
+Super simple – get the portfolio running on your machine in just a few minutes!
+
+### 🔧 Prerequisites
+**Install Quarto**  
+Download from: [https://quarto.org](https://quarto.org)
+
+### 📥 Steps
+**1. Clone or download the repository**  
+Clone using `git clone https://github.com/<your-username>/saurabh-portfolio-update.git` or simply download the ZIP from GitHub – no Git required! 😎
+
+**2. Open the project folder**  
+Navigate to the directory with `cd saurabh-portfolio-update`
+
+**3. Render and preview the site**  
+First build the site with `quarto render`, then start the live preview server with `quarto preview`
+
+🎉 **Done!** Your browser will automatically open and show the full portfolio.
+
+**Tip:** While `quarto preview` is running, any changes you make to the `.qmd` files will update live – perfect for tweaking and experimenting! ⚡
+
 This project turned out amazing thanks to great collaboration – and my tutoring made the complex parts simple! 🚀
 
 ## 💼 About Me – Adams, Your Freelance IT & Academic Tutor
@@ -56,3 +77,5 @@ Your support keeps me helping more students achieve their dreams! 🫶 Thank you
 
 ---
 *Guiding the next generation, one successful project at a time* 🌍✨
+
+
